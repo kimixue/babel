@@ -1,5 +1,6 @@
 # babel
-1 首先安装 node.js
+
+1 首先安装 #node.js
 
 
 
@@ -11,7 +12,7 @@
 
 
 
-2 接下来安装grunt
+2 接下来安装#grunt
 
 
 
